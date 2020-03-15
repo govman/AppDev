@@ -1,0 +1,27 @@
+{
+  "name": "npm-dev",
+  "version": "1.0.0",
+  "description": "Test directory to learn",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/govman/AppDev.git"
+  },
+  "keywords": [
+    "temp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/govman/AppDev/issues"
+  },
+  "homepage": "https://github.com/govman/AppDev#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
